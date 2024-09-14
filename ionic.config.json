@@ -1,0 +1,7 @@
+{
+  "name": "dmm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
